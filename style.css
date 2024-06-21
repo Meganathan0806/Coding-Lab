@@ -1,0 +1,64 @@
+body{
+    background-size: 100%;
+    background-image: url(img3.jpg);
+    background-position: no-repeat;
+    background-position: center;
+    font-family: sans-serif;
+    cursor: pointer;
+    margin-bottom: 10%;
+}
+header{
+    display: flex;
+    padding: 10px 30px;
+    justify-content: space-between;
+    color: white;
+    background-color: rgb(34, 32, 32);
+
+}
+nav li{
+    display: inline-block;
+    margin: 10px 20px;
+    font-weight: 450;
+    font-size: 18px;
+}
+section h1{
+    color: white;
+    text-align: center;
+    margin-top: 115px;
+    font-size: 50px;
+}
+section h2{
+    color: white;
+    text-align: center;
+    font-size: 45px;
+}
+
+
+div{
+    text-align: center;
+
+}
+.Learnmore{
+    padding: 10px 30px;
+    font-size: 20px;
+    border-radius: 7px;
+    border: solid white;
+    background-color: rgba(0, 0, 0, 0.37);
+    color: white;
+    margin: 18px;
+
+}
+.Subscribe{
+    font-size: 20px;
+    border-radius: 7px;
+    padding: 15px 30px;
+    background-color: white;
+    color: black;
+    border: solid white;
+    margin-left: 20px;
+
+}
+.CodingLab{
+    font-size: 50px;
+    margin-left: 10px;
+}
